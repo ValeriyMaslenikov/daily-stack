@@ -10,6 +10,7 @@ from my own experience, so expect opinions, not reviews.
 
 | Name | Category | What it's for | Status |
 | ---- | -------- | ------------- | ------ |
+| [Understand-Anything](ai/understand-anything/) | ai | Explore an unfamiliar codebase as an interactive knowledge graph | `trying` |
 
 **Status:** `daily` — part of my routine · `trying` — evaluating it · `dropped` — stopped using it (the page says why).
 
